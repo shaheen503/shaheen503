@@ -37,9 +37,6 @@ A web app that retrieves and displays weather information for a searched locatio
 - **Tech:** HTML, CSS, JavaScript, weather API
 - **Repository:** [Weather Application](https://github.com/shaheen503/Weather-application-project)
 
-### 🍎 Smart Sorting: Rotten Fruit & Vegetable Classification
-A computer-vision / transfer-learning project focused on classifying fruit and vegetable freshness.
-- **Repository:** [Smart Sorting Project](https://github.com/shaheen503/Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables)
 
 ## 📚 Current Focus
 
