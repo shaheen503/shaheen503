@@ -15,6 +15,11 @@ I enjoy building practical projects with Python, SQL, web technologies, and data
 
 ## 🚀 Featured Projects
 
+### 🌐 Shaheen Personal Portfolio
+My personal portfolio website showcasing my skills, projects, and professional profile.
+- **Repository:** [shaheen-portfolio](https://github.com/shaheen503/shaheen-portfolio)
+- **Live website:** [Visit my portfolio](https://shaheen-personal-portfolio.netlify.app)
+
 ### 📈 AI Stock Market Trend Predictor
 A machine-learning project that uses historical stock data and indicators to explore possible market trends.
 - **Tech:** Python, Pandas, NumPy, scikit-learn
@@ -37,7 +42,6 @@ A web app that retrieves and displays weather information for a searched locatio
 - **Tech:** HTML, CSS, JavaScript, weather API
 - **Repository:** [Weather Application](https://github.com/shaheen503/Weather-application-project)
 
-
 ## 📚 Current Focus
 
 - Practising Python programming and problem-solving
@@ -48,7 +52,8 @@ A web app that retrieves and displays weather information for a searched locatio
 ## 🔗 Connect with Me
 
 - **LinkedIn:** [Shaik Shaheen](https://www.linkedin.com/in/shaik-shaheen-4997aa2b6)
-- **Portfolio:** [Personal Portfolio](https://shaheen-personal-portfolio.netlify.app)
+- **Portfolio Website:** [Personal Portfolio](https://shaheen-personal-portfolio.netlify.app)
+- **Portfolio Repository:** [shaheen-portfolio](https://github.com/shaheen503/shaheen-portfolio)
 - **GitHub:** [@shaheen503](https://github.com/shaheen503)
 
 ---
