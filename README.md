@@ -18,7 +18,7 @@ I enjoy building practical projects with Python, SQL, web technologies, and data
 ### 🌐 Shaheen Personal Portfolio
 My personal portfolio website showcasing my skills, projects, and professional profile.
 - **Repository:** [shaheen-portfolio](https://github.com/shaheen503/shaheen-portfolio)
-- **Live website:** [Visit my portfolio](https://shaheen-personal-portfolio.netlify.app)
+  
 
 ### 📈 AI Stock Market Trend Predictor
 A machine-learning project that uses historical stock data and indicators to explore possible market trends.
