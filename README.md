@@ -15,7 +15,6 @@ I enjoy building practical projects with Python, SQL, web technologies, and data
 
 ## 🚀 Featured Projects
 
-
 ### 📈 AI Stock Market Trend Predictor
 A machine-learning project that uses historical stock data and indicators to explore possible market trends.
 - **Tech:** Python, Pandas, NumPy, scikit-learn
@@ -27,6 +26,17 @@ An academic machine-learning project that explores career suggestions from stude
 - **Tech:** Python, Random Forest, machine learning
 - **Repository:** [Automated Career Counselling](https://github.com/shaheen503/Automated-Career-Counselling-)
 - **Live demo:** [Open project](https://automated-career-counselling-1.onrender.com/)
+
+### 🌱 AI Smart Farming Assistant
+A web-based agriculture assistant that helps users explore farming-related guidance and information.
+- **Tech:** Python, web development
+- **Repository:** [AI Smart Farming Assistant](https://github.com/shaheen503/AI_smart_Farming_Assistant)
+- **Live demo:** [Open dashboard](https://ai-smart-farming-assistant-89vw.onrender.com/dashboard)
+
+### 💼 Portfolio Website
+My personal portfolio showcasing my projects, skills, and profile.
+- **Repository:** [Portfolio Website](https://github.com/shaheen503/shaheen-Shaik-portfolio)
+- **Live website:** [Visit my portfolio](https://shaheen-personal-portfolio.netlify.app)
 
 ### 📊 YouTube Creator Analytics Dashboard
 A dashboard project for exploring creator metrics such as views, likes, comments, and engagement.
@@ -49,7 +59,7 @@ A web app that retrieves and displays weather information for a searched locatio
 
 - **LinkedIn:** [Shaik Shaheen](https://www.linkedin.com/in/shaik-shaheen-4997aa2b6)
 - **Portfolio Website:** [Personal Portfolio](https://shaheen-personal-portfolio.netlify.app)
-- **Portfolio Repository:** [shaheen-portfolio](https://github.com/shaheen503/shaheen-portfolio)
+- **Portfolio Repository:** [shaheen-Shaik-portfolio](https://github.com/shaheen503/shaheen-Shaik-portfolio)
 - **GitHub:** [@shaheen503](https://github.com/shaheen503)
 
 ---
